@@ -9,7 +9,9 @@
 </b>
 <br />
 <br />
-![ActiveDirectorylab](https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/be783499-e4e3-49c9-adc7-f48021e1567b)
+![ActiveDirectorylab](https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/0da0040a-2617-4976-bfd5-b6e45737b930)
+
+
 <br />
 <br />
 
