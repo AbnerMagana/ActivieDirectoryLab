@@ -1,4 +1,4 @@
-# ActivieDirectoryLab / Add Users w/PowerShell
+# ActiveDirectoryLab / Add Users w/PowerShell
 <h1>Description</h1>
 <b>In this lab, I will be setting up a running Active Directory in Oracle VirtualBox | Add Users with PowerShell
 </b>
@@ -26,8 +26,23 @@
 <img width="367" alt="AD2" src="https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/74dba32c-65e2-4d2e-a21c-973e34d8cac6">
 <br />
 <br />
-
-
+<b>Configured routing so that clients on the private network can access the internet through the domain controller<b>
+<img width="382" alt="DC1" src="https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/7d65ea1e-619d-4215-8bb4-d862f45b4fb9">
+<br />
+<img width="500" alt="DC2" src="https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/8b2cefa3-4908-492d-9e05-fce78e00bea5">
+<br />
+<img width="425" alt="DC3" src="https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/7118fd8a-0c03-40cb-a09f-f43926cf68b7">
+<br />
+<br />
+Setting up DHCP on DC.
+<br />
+<img width="202" alt="DHCP1" src="https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/b68823b4-26b0-486b-9e78-6b73153802cc">
+<br />
+<img width="489" alt="DHCP2" src="https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/f1c0c5df-443f-4cbf-88d5-36bdbdff63db">
+<br />
+<img width="325" alt="DHCP3" src="https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/893b98fe-9393-4915-bb11-48b4b1bb0b86">
+<br />
+<br />
 
 <!--
  ```diff
