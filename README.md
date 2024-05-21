@@ -20,32 +20,13 @@
 <img width="521" alt="NIC" src="https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/9a5eb946-4ba0-471e-ae49-b794440b6495">
 <br />
 <br />
-<b>Name server and isntall Active Directory to creat the domain in Server Manager.</b>
+<b>Name server and install Active Directory to creat the domain in Server Manager.</b>
+<img width="343" alt="AD1" src="https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/38a36a14-4d5e-4b6f-895c-6fe7d87137a8">
+<br />
+<img width="367" alt="AD2" src="https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/74dba32c-65e2-4d2e-a21c-973e34d8cac6">
+<br />
+<br />
 
-<h2>Languages Used</h2>
-
-- <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
-
-<h2>Utilities Used</h2>
-
-- <b>ipgeolocation.io:</b> IP Address to Geolocation API
-
-<h2>Several attacks from Ukraine and other countries coming in!; Custom logs being output with geodata</h2>
-
-<p align="center">
-
-<img src="https://github.com/Jabner98/Sentinel-Lab/assets/112572239/9673bf85-fd2e-44ce-aa16-5ad6c93c9799">
-
-<!-- <img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/> -->
-</p>
-
-<h2>World map of incoming attacks after a couple of hours (built custom logs including geodata)</h2>
-
-<p align="center">
-  <img src="https://github.com/Jabner98/Sentinel-Lab/assets/112572239/2ee9ba5b-e488-4da2-aa01-caf8eda47dc5">
-
-<!-- <img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>  -->
-</p>
 
 
 <!--
