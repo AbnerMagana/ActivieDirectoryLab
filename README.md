@@ -1,16 +1,11 @@
 # ActivieDirectoryLab / Add Users w/PowerShell
-<h1>In this lab, I will be setting up a running Active Directory in Oracle VirtualBox | Add Users with PowerShell</h1>
-
-
-
-
-<h2>Description</h2>
-<b>Creating an Active Directory home lab Environment using Oracle Virtual Box. Configuring and running this lab will definitely help develop my understanding of how active directory and windows networking works.
+<h1>Description</h1>
+<b>In this lab, I will be setting up a running Active Directory in Oracle VirtualBox | Add Users with PowerShell
 </b>
 <br />
 <br />
-![ActiveDirectorylab](https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/0da0040a-2617-4976-bfd5-b6e45737b930)
 
+![ADPowershell](https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/c2f6560a-6397-41ff-9a9d-c791dd75d8c1)
 
 <br />
 <br />
