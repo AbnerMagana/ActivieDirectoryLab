@@ -9,11 +9,19 @@
 
 <br />
 <br />
+<b>Seting up Windows Server 2019 to set up first part of lab. </b> <br />
+<b>Configured the virtual machine by giving it two network adaptes: One for connecting to internet and the other for internal network.</b>
+<br />
+<br />
+<img width="797" alt="Screenshot 2024-05-21 153542" src="https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/2565ecb3-3458-4e62-ad7c-4711696274d5">
+<br />
+<br />
+<b>Assigning IP address to the internal network.<br>
+<img width="521" alt="NIC" src="https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/9a5eb946-4ba0-471e-ae49-b794440b6495">
+<br />
+<br />
+<b>Name server and isntall Active Directory to creat the domain in Server Manager.</b>
 
-<p align="center">
-  <img src="https://github.com/Jabner98/Sentinel-Lab/assets/112572239/9e8f470c-d18c-4ff3-ad80-dc75a56ea83e"
-<!-- <img src="https://i.imgur.com/3d3CEwZ.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/> --> 
-</p>
 <h2>Languages Used</h2>
 
 - <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
