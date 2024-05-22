@@ -43,6 +43,17 @@ Setting up DHCP on DC.
 <img width="325" alt="DHCP3" src="https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/893b98fe-9393-4915-bb11-48b4b1bb0b86">
 <br />
 <br />
+Ran the PowerShell script to create 1000 users in Active Directory. 
+<br />
+<br />
+
+
+https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/1a0a3d86-51b7-449d-901c-5f71337e68e3
+
+
+<br />
+<br />
+
 
 <!--
  ```diff
