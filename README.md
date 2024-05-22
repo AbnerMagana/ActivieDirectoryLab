@@ -2,6 +2,8 @@
 <h1>Description</h1>
 <b>In this lab, I will be setting up a running Active Directory in Oracle VirtualBox | Add Users with PowerShell
 </b>
+
+<b>I will be following a tutorial by <a href="https://www.youtube.com/@JoshMadakor">Josh Madakor</a></b>
 <br />
 <br />
 
