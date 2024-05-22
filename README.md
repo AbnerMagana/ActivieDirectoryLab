@@ -53,8 +53,15 @@ https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/1a0a3d86-51b7-4
 
 <br />
 <br />
-
-
+Log in to Windows 10 client machine and join the domain while changing name.
+<img width="509" alt="Client" src="https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/8eb22cfa-0001-449f-ba5c-a639235237c3">
+<br />
+<br />
+Signed in as one of the users created from PowerShell Script.
+<img width="908" alt="Loggingin1" src="https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/23d9aba8-0f81-4496-b543-8c467acc987a">
+<br />
+<br />
+<img width="494" alt="whoami" src="https://github.com/Jabner98/ActivieDirectoryLab/assets/112572239/bd87000d-83a9-45c4-b137-46b8b806b057">
 <!--
  ```diff
 - text in red
